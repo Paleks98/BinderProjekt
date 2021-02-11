@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 111111111,
+            "firstName": "Philipp",
+            "lastName": "Alek",
+            "DOB": null,
+            "email": "po2tomo@ya.ru",
+            "password": "1234",
+            "interests": "js"
+        },
+        {
+            "id": 111111111,
+            "firstName": "Philipp",
+            "lastName": "Alek",
+            "DOB": null,
+            "email": "potomo1@ya.ru",
+            "password": "1234",
+            "interests": "js"
+        },
+        {
+            "id": 111111111,
+            "firstName": "Philipp",
+            "lastName": "Alek",
+            "DOB": null,
+            "email": "potom2o@ya.ru",
+            "password": "1234",
+            "interests": "js"
+        }
+    ],
+    "friends": []
+}
